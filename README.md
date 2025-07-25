@@ -81,16 +81,6 @@ Me chamo Arthur Rocha Delgado e sou natural do Rio Grande do Sul. Concluí o ens
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-
 <img 
     align="left" 
     alt="Git" 
