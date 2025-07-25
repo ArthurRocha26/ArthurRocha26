@@ -87,6 +87,8 @@ Me chamo Arthur Rocha Delgado e sou natural do Rio Grande do Sul. Concluí o ens
 <br/>
 <br/>
 
+![Snake animation](https://github.com/ArthurRocha26/ArthurRocha26/blob/output/github-contribution-grid-snake.svg)
+
 ### 📊 Estatísticas
 
 <p>
