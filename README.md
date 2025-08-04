@@ -1,6 +1,6 @@
 # 👨‍💻 Arthur Rocha
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Web`**
 
 Me chamo Arthur Rocha Delgado e sou natural do Rio Grande do Sul. Concluí o ensino médio no Colégio Kennedy, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UNISINOS. Sou apaixonado por tecnologia e busco uma oportunidade para me desenvolver profissionalmente no Front-End, em uma organização que valorize o crescimento mútuo. Estou comprometido em aprender, contribuir e evoluir junto a um time inovador
 <p>
