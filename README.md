@@ -1,28 +1,13 @@
-# Hi 🤟 i'm rocha
+# Hi, 🤟 i'm rocha;
 
-**``Who I am?``**
+**``.about_me``**
 
-Me chamo Arthur Rocha Delgado e sou natural do Rio Grande do Sul. Concluí o ensino médio no Colégio Kennedy, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UNISINOS. Sou apaixonado por tecnologia e busco uma oportunidade para me desenvolver profissionalmente em uma organização que valorize o crescimento mútuo. Estou comprometido em aprender, contribuir e evoluir junto a um time inovador
-<p>
-    <a href="https://github.com/ArthurRocha26?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ArthurRocha26?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ArthurRocha26?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ArthurRocha26?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Born in Rio Grande do Sul, Arthur Rocha Delgado completed his secondary education at Colégio Kennedy, as well as a course in computer technology. He is currently studying Computer Science at UNISINOS. He is passionate about technology and is looking for an opportunity to develop professionally in an organization that values mutual growth. He is committed to learning, contributing, and evolving with an innovative team.
+
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+**``.languagesAndTechnologies``**
 
 <img 
     align="left" 
@@ -87,6 +72,8 @@ Me chamo Arthur Rocha Delgado e sou natural do Rio Grande do Sul. Concluí o ens
 <br/>
 <br/>
 
+
+**``.status``**
 <p>
     <img 
         align="left" 
